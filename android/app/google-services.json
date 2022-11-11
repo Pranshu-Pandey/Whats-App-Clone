@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155590909508",
+    "project_id": "whatsappreal-cacd0",
+    "storage_bucket": "whatsappreal-cacd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155590909508:android:20bd9e559e6e095df92611",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155590909508-3v9qdeqdrd0c682mg93bfrk46fo55ccq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLE5Guoyo6AKzffTKGFPq7pnqiXyAUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155590909508-3v9qdeqdrd0c682mg93bfrk46fo55ccq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
